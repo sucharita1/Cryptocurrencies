@@ -73,7 +73,7 @@ The K-means algorithm is used to cluster the cryptocurrencies using the PCA data
 
 * A hvplot scatter plot is created where the X-axis is "TotalCoinsMined", the Y-axis is "TotalCoinSupply", the data is ordered by "Class", and it shows the CoinName when you hover over the data point.
 
-![hvplot_scatter](https://github.com/sucharita1/Cryptocurrencies/blob/8d2932b39fd2bf873e3fdefd244f8d2526aff846/Resources/Images/hvplot_scatter.png)
+![hvplot_scatter](https://github.com/sucharita1/Cryptocurrencies/blob/a621421b28758677ba7834736e72f5dc93aa3b9b/Resources/Images/hvplot_scatter.png?raw=True)
 
 
 
